@@ -16,7 +16,7 @@ This project will touch on the overarching attitudes and beliefs important to ef
 - visualization is a fluid process that typically requires multiple iterations of improvements.
 
 #### The Project steps
-1- Choose a Data Set.
+1- Choose a Data Set n/
 2-  Get Organized.
 3- Find a Data Story.
 4- Create Your Visualization.
